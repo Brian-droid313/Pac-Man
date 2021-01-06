@@ -1,0 +1,22 @@
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	width: 560px;
+	height: 560px;
+	border: solid black;
+}
+
+.grid div {
+	width: 20px;
+	height: 20px;
+}
+
+.image {
+	width: 20px;
+	height: 20px;
+}
+
+body .swal2-container {
+    /* position: absolute; */
+    top: -422px;
+} 
